@@ -1,4 +1,4 @@
-from classes import *
+from classe import *
 
 dicionarioDisciplina = {} #Dicionário com disciplina
 dicionarioAlunos = {} #Alunos não utilizados
