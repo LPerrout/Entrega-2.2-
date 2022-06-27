@@ -1,4 +1,4 @@
-from funcoes import *
+from func import *
 
 print("Bem vindo ao sistema escolar de organização de disciplinas\n Qual função voce deseja realizar?")
 
